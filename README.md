@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hi, I'm Naitik Gupta! 
 
-<!--
-**doublequotic/doublequotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Enginner at <a href="http://www.https://www.lghs.net/">Los Gatos High School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Part of the team at <a href="https://losgatoshacks.com/">Los Gatos Hacks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Failure = {
+  pronouns: "he" | "him",
+  code: [Rust, Javascript, HTML, CSS, Python],
+  tools: [PyQT, Django, Keras, Scikit],
+  architecture: ["machine learner", "super coder", "parser/lexer"],
+}
+```
+
+---
