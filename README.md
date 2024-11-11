@@ -5,7 +5,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <a href="https://app.daily.dev/arcoson"><img src="https://api.daily.dev/devcards/v2/GJcoV8qCpz9nqLwkzhaO6.png?r=n8l&type=default" width="356" alt="Naitik Gupta's Dev Card"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ```javascript
 const Aspiring = {
