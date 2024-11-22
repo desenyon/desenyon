@@ -4,7 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <a href="https://app.daily.dev/arcoson"><img src="https://api.daily.dev/devcards/v2/GJcoV8qCpz9nqLwkzhaO6.png?r=n8l&type=default" width="356" alt="Naitik Gupta's Dev Card"/></a>
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Arcoson&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ```javascript
 const Aspiring = {
