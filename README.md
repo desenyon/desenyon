@@ -7,7 +7,7 @@
 
 ```javascript
 const Aspiring = {
-  👋 Hey there! I'm Naitik, a Sophmore in high school with a boundless curiosity for the world around me. 🌟
+  👋 Hey there! I'm Naitik, a Sophmore in high school with a boundless curiosity and intesest in programming and research. 🌟
 
 🔍 Research Enthusiast: I'm passionate about delving into the depths of various subjects, always eager to uncover new insights and knowledge. Whether it's exploring the latest scientific breakthroughs or diving into historical mysteries, research fuels my thirst for understanding.
 
