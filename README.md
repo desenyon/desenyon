@@ -3,13 +3,13 @@
 <p><em>Student at <a href="https://www.lghs.net/">LGHS</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Arcoson&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=XCALEN&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ```javascript
 const Aspiring = {
   👋 Hey there! I'm Naitik, a high school sophomore who spends too much time debugging code and not enough time debugging life. 🧑‍💻
 
-🔍 Research Enthusiast: I enjoy diving deep into topics that most people find too complicated to Google. Whether it's AI, physics, or why my code only breaks when I show it to someone, I love the thrill of discovery.
+🔍 Research Enthusiast: I enjoy delving into topics that most people find too complex to Research. Whether it's AI, physics, or why my code only breaks when I show it to someone, I love the thrill of discovery.
 
 💻 Aspiring Programmer: Programming is like magic—except the compiler is always out to prove you're not a real person. I build projects, solve problems, and occasionally question my life choices when an issue turns out to be a missing semicolon.
 
