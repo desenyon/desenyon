@@ -2,18 +2,37 @@
 
 <p><em>Student at <a href="https://www.lghs.net/">LGHS</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-```javascript
-const Aspiring = {
-  👋 Hey there! I'm Naitik, a high school sophomore who spends too much time debugging code and not enough time debugging life. 🧑‍💻
+## 🧠 A Little About Me
 
-🔍 Research Enthusiast: I enjoy delving into topics that most people find too complex to Research. Whether it's AI, physics, or why my code only breaks when I show it to someone, I love the thrill of discovery.
+- 🧪 I like experimenting with code the way chefs mess with recipes — sometimes it's great, sometimes it’s a learning experience.
+- 🤖 I’m really into AI, language models, and building tools that actually help people
+- 🧑‍🎓 I’m still in school, but I’ve already worked on real-world projects, research, startups, and way too many side ideas.
 
-💻 Aspiring Programmer: Programming is like magic—except the compiler is always out to prove you're not a real person. I build projects, solve problems, and occasionally question my life choices when an issue turns out to be a missing semicolon.
+---
 
-🏸 Varsity Badminton Player: Off the keyboard and onto the court, I smash birdies and sometimes to the net. Badminton teaches me discipline, strategy, and how to recover from a bad drop shot—much like debugging.
+## 🧰 Tools I Reach For Often
 
-🔬 Passion for Pre-Research: If there's an unsolved mystery in the universe, I'm probably overanalyzing it. From quantum mechanics to AI ethics, I love exploring the unknown and pretending I have all the answers.
+| What I Do         | What I Use                                  |
+|------------------|---------------------------------------------|
+| Frontend Magic   | `React`, `Next.js`, `Tailwind`, `TypeScript` |
+| Backend Logic    | `Python`, `FastAPI`, `Node.js`, `Express`   |
+| AI Stuff         | `OpenAI`, `LangChain`, `Pandas`, `YOLOv8`   |
+| DevOps & Infra   | `Docker`, `Vercel`, `GitHub Actions`, `Firebase` |
+| Productivity     | `Notion`, `Figma`, `Postman`, `ClickUP`      |
 
-🚀 My journey is just beginning—unless recursion is involved, in which case, I might be stuck here forever. Let's connect and figure out this adventure together! 🌌,
-};
-```
+---
+
+## 💬 Facts
+
+- 🧠 I prefer clarity over complexity — keep it simple.
+- ☕ monster + ipad + music + pycharm = lock in.
+
+---
+
+## 📫 Let’s Connect
+
+If you ever want to collaborate, talk about AI, or just trade wild ideas, feel free to reach out:
+
+- 📮 **Email:** `sparlearnoffical@gmail.com`
+- 🌐 **Site:** [naitikgupta.com](https://naitikg.me)
+- 💼 **LinkedIn:** [linkedin.com/in/naitikgupta](https://www.linkedin.com/in/naitikpgupta/)
