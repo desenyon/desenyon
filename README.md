@@ -4,7 +4,6 @@
 
 ## 🧠 A Little About Me
 
-- 🧪 I like experimenting with code the way chefs mess with recipes — sometimes it's great, sometimes it’s a learning experience.
 - 🤖 I’m really into AI, language models, and building tools that actually help people
 - 🧑‍🎓 I’m still in school, but I’ve already worked on real-world projects, research, startups, and way too many side ideas.
 
@@ -24,7 +23,7 @@
 
 ## 💬 Facts
 
-- 🧠 I prefer clarity over complexity — keep it simple.
+- 🧠 clarity over complexity — keep it simple.
 - ☕ monster + ipad + music + pycharm = lock in.
 
 ---
@@ -34,5 +33,5 @@
 If you ever want to collaborate, talk about AI, or just trade wild ideas, feel free to reach out:
 
 - 📮 **Email:** `sparlearnoffical@gmail.com`
-- 🌐 **Site:** [naitikgupta.com](https://naitikg.me)
+- 🌐 **Site:** [naitikg.me](https://naitikg.me)
 - 💼 **LinkedIn:** [linkedin.com/in/naitikgupta](https://www.linkedin.com/in/naitikpgupta/)
