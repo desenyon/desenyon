@@ -1,5 +1,4 @@
 <h2>Hi, I'm Naitik Gupta!</h2>
-<hr>
 <p>
   <em>Student at <a href="https://www.lghs.net/">LGHS</a></em>
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
