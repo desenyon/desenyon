@@ -1,47 +1,64 @@
-<h2>Hi, I'm Naitik Gupta!</h2>
-<p>
-  <em>Student at <a href="https://www.lghs.net/">LGHS</a></em>
-  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<h1 align="center">Hey, I'm Naitik Gupta</h1>
+<p align="center">
+  <em>Student @ <a href="https://www.lghs.net/">Los Gatos High School</a> • AI/ML Builder • Founder @ Syntheon</em>
 </p>
 
-- 🌱 I’m currently learning **Langflow, N8N, and Next.js**
+<p align="center">
+  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50" alt="lightning gif">
+</p>
 
-- 👨‍💻 All of my projects are available at [naitikg.me](naitikg.me)
+---
 
-- 💬 Ask me about **python, scikit-learn, or vercel**
+### 🚀 What I’m Working On
+- 🌱 Exploring **Facial Tech**, **n8n**, and **Next.js**  
+- 🧠 Building AI-driven tools that connect **research, productivity, and creativity**  
+- 🔬 Focused on **edge AI**, **autonomous pipelines**, and **intelligent interfaces**  
 
-- 📫 How to reach me **desenyon@gmail.com**
+---
 
-- ⚡ Fun fact **I once accidentally used Claude code 300 times above the usage limit.**
+### 🧰 Tech Toolkit
 
-<hr>
+| Domain | Core Stack |
+|--------|-------------|
+| ⚡ **Frontend Magic** | `React` • `Next.js` • `TailwindCSS` • `TypeScript` |
+| 🧩 **Backend Logic** | `FastAPI` • `Node.js` • `PostgreSQL` • `Redis` |
+| 🤖 **AI & ML Systems** | `LangChain` • `OpenAI` • `YOLOv8` • `PyTorch` • `Pandas` |
+| 🧱 **Infra & DevOps** | `Docker` • `Firebase` • `Vercel` • `GitHub Actions` |
+| 🎨 **Workflow & Design** | `Figma` • `Notion` • `ClickUp` • `Postman` |
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧭 Featured Projects
+- 🔥 **[FireGuard](https://github.com/desenyon/FireGuard)** — Wildfire tracking app using NASA FIRMS + CAL FIRE + OpenWeather  
+- 💡 **[Roots](https://github.com/desenyon/syntheon)** — Synthheon is a private facial-passkey system that lets you unlock apps and devices securely using encrypted facial signatures instead of traditional passwords.
+- 🧬 **[OpenCare](https://github.com/desenyon/opencare)** — AI-powered Medi-Cal/Medicaid helper  
+
+🖥️ More at **[naitikg.me](https://naitikg.me)**
+
+---
+
+### 💬 Ask Me About
+`Python` • `scikit-learn` • `Vercel` • `LangChain` • `FastAPI`
+
+📫 Reach me at **desenyon@gmail.com**  
+⚡ Fun fact: I once *accidentally* used Claude 300× above my usage limit.
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://dev.to/https://dev.to/desenyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/desenyon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naitikpgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naitikpgupta" height="30" width="40" /></a>
-<a href="https://instagram.com/naitikkindof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naitikkindof" height="30" width="40" /></a>
-<a href="https://medium.com/@randomresearchai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@randomresearchai" height="30" width="40" /></a>
+  <a href="https://dev.to/desenyon" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40" alt="Dev.to"/></a>
+  <a href="https://linkedin.com/in/naitikpgupta" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@randomresearchai" target="_blank"><img src="https://skillicons.dev/icons?i=medium" width="40" alt="Medium"/></a>
 </p>
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+---
 
+### 📊 Activity Snapshot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desenyon&show_icons=true&theme=tokyonight&layout=compact" alt="Top languages" />
+</p>
 
-## 🧭 What I Actually Build
+---
 
-| Area             | Stack Highlights                                      |
-|------------------|--------------------------------------------------------|
-| **Frontend Magic**   | `React`, `Next.js`, `TailwindCSS`, `TypeScript`         |
-| **Backend Logic**    | `FastAPI`, `Node.js`, `Express`, `PostgreSQL`, `Redis` |
-| **AI & ML Systems**  | `LangChain`, `OpenAI`, `YOLOv8`, `Pandas`, `PyTorch`    |
-| **Infra & DevOps**   | `Docker`, `Firebase`, `Vercel`, `GitHub Actions`       |
-| **Productivity**     | `Figma`, `Postman`, `ClickUp`, `Notion`                |
-
-<hr>
-
-# Cool Widgets
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=desenyon&show_icons=true&locale=en&layout=compact" alt="desenyon" /></p>
-
-
-
-
+<h4 align="center">"Build fast. Learn faster. Automate everything."</h4>
