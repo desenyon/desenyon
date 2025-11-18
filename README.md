@@ -1,62 +1,69 @@
 <h1 align="center">Hey, I'm Naitik Gupta</h1>
+
 <p align="center">
-  <em>Student @ <a href="https://www.lghs.net/">Los Gatos High School</a> • AI/ML Builder • Founder @ Syntheon</em>
+  Student @ <a href="https://www.lghs.net/">Los Gatos High School</a> • AI/ML Builder • Founder @ <strong>Syntheon</strong>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50" alt="lightning gif">
+  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="55" alt="lightning gif">
 </p>
 
 ---
 
-### 🚀 What I’m Working On
-- 🌱 Exploring **Facial Tech**, **n8n**, and **Next.js**  
-- 🧠 Building AI-driven tools that connect **research, productivity, and creativity**  
-- 🔬 Focused on **edge AI**, **autonomous pipelines**, and **intelligent interfaces**  
+### What I’m Building
+- Syntheon — a zero-trust facial-passkey framework for secure app and device authentication  
+- FireGuard — real-time wildfire intelligence using NASA FIRMS + CAL FIRE + OpenWeather  
+- OpenCare — an AI assistant that simplifies Medi-Cal/Medicaid workflows  
+- Exploring edge AI, autonomous pipelines, and modern Next.js ecosystems
 
 ---
 
-### 🧰 Tech Toolkit
+### Tech Toolkit
 
 | Domain | Core Stack |
 |--------|-------------|
-| ⚡ **Frontend Magic** | `React` • `Next.js` • `TailwindCSS` • `TypeScript` |
-| 🧩 **Backend Logic** | `FastAPI` • `Node.js` • `PostgreSQL` • `Redis` |
-| 🤖 **AI & ML Systems** | `LangChain` • `OpenAI` • `YOLOv8` • `PyTorch` • `Pandas` |
-| 🧱 **Infra & DevOps** | `Docker` • `Firebase` • `Vercel` • `GitHub Actions` |
-| 🎨 **Workflow & Design** | `Figma` • `Notion` • `ClickUp` • `Postman` |
+| Frontend Engineering | React • Next.js • TailwindCSS • TypeScript |
+| Backend Systems | FastAPI • Node.js • PostgreSQL • Redis |
+| AI/ML & Vision | PyTorch • YOLOv8 • LangChain • OpenAI • Pandas |
+| Infra & DevOps | Docker • Vercel • Firebase • GitHub Actions |
+| Product & Workflow | Figma • Notion • ClickUp • Postman |
 
 ---
 
-### 🧭 Featured Projects
-- 🔥 **[FireGuard](https://github.com/desenyon/FireGuard)** — Wildfire tracking app using NASA FIRMS + CAL FIRE + OpenWeather  
-- 💡 **[Roots](https://github.com/desenyon/syntheon)** — Synthheon is a private facial-passkey system that lets you unlock apps and devices securely using encrypted facial signatures instead of traditional passwords.
-- 🧬 **[OpenCare](https://github.com/desenyon/opencare)** — AI-powered Medi-Cal/Medicaid helper  
+### Featured Projects  
+- FireGuard — Wildfire tracking and smoke intelligence  
+  <a href="https://github.com/desenyon/FireGuard">github.com/desenyon/FireGuard</a>
 
-🖥️ More at **[naitikg.me](https://naitikg.me)**
+- Syntheon — Facial-passkey authentication (private)  
+  <a href="https://github.com/desenyon/syntheon">github.com/desenyon/syntheon</a>
 
----
+- OpenCare — AI-powered Medi-Cal/Medicaid assistant  
+  <a href="https://github.com/desenyon/opencare">github.com/desenyon/opencare</a>
 
-### 💬 Ask Me About
-`Python` • `scikit-learn` • `Vercel` • `LangChain` • `FastAPI`
-
-📫 Reach me at **desenyon@gmail.com**  
-⚡ Fun fact: I once *accidentally* used Claude 300× above my usage limit.
+More at <strong>https://naitikg.me</strong>
 
 ---
 
-### 🌐 Connect with Me
+### Ask Me About
+Python • FastAPI • Vercel • LangChain • Edge AI • Vision Models
+
+Contact: <strong>desenyon@gmail.com</strong>  
+Fun fact: I once exceeded my Claude usage limit by 300×.
+
+---
+
+### Connect With Me
 <p align="left">
-  <a href="https://dev.to/desenyon" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40" alt="Dev.to"/></a>
-  <a href="https://linkedin.com/in/naitikpgupta" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@randomresearchai" target="_blank"><img src="https://skillicons.dev/icons?i=medium" width="40" alt="Medium"/></a>
+  <a href="https://dev.to/desenyon" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40" /></a>
+  <a href="https://linkedin.com/in/naitikpgupta" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://medium.com/@randomresearchai" target="_blank"><img src="https://skillicons.dev/icons?i=medium" width="40" /></a>
 </p>
 
 ---
 
-### 📊 Activity Snapshot
+### Activity Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desenyon&show_icons=true&theme=tokyonight&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desenyon&show_icons=true&theme=tokyonight&layout=compact"/>
 </p>
 
 ---
