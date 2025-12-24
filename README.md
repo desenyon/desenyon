@@ -1,71 +1,124 @@
-<h1 align="center">Hey, I'm Naitik Gupta</h1>
+<!-- =======================
+     NAITIK GUPTA | README
+     GitHub: desenyon
+     Website: naitikg.me
+======================= -->
 
-<p align="center">
-  Student @ <a href="https://www.lghs.net/">Los Gatos High School</a> • AI/ML Builder • Founder @ <strong>Syntheon</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="55" alt="lightning gif">
-</p>
+# Naitik Gupta
 
----
+Student at <a href="https://www.lghs.net/">Los Gatos High School</a> • AI/ML + Product Builder • Founder @ <b>Syntheon</b>
 
-### What I’m Building
-- Syntheon — a zero-trust facial-passkey framework for secure app and device authentication  
-- FireGuard — real-time wildfire intelligence using NASA FIRMS + CAL FIRE + OpenWeather  
-- OpenCare — an AI assistant that simplifies Medi-Cal/Medicaid workflows  
-- Exploring edge AI, autonomous pipelines, and modern Next.js ecosystems
+<a href="https://naitikg.me"><img src="https://img.shields.io/badge/Portfolio-naitikg.me-111?style=for-the-badge"></a>
+<a href="https://linkedin.com/in/naitikpgupta"><img src="https://img.shields.io/badge/LinkedIn-naitikpgupta-111?style=for-the-badge&logo=linkedin"></a>
+<a href="https://dev.to/desenyon"><img src="https://img.shields.io/badge/DEV.to-desenyon-111?style=for-the-badge&logo=dev.to"></a>
+<a href="https://medium.com/@randomresearchai"><img src="https://img.shields.io/badge/Medium-randomresearchai-111?style=for-the-badge&logo=medium"></a>
+<a href="mailto:desenyon@gmail.com"><img src="https://img.shields.io/badge/Email-desenyon%40gmail.com-111?style=for-the-badge&logo=gmail"></a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111111,100:2b2b2b&text=&fontColor=ffffff&section=header"/>
 
-### Tech Toolkit
-
-| Domain | Core Stack |
-|--------|-------------|
-| Frontend Engineering | React • Next.js • TailwindCSS • TypeScript |
-| Backend Systems | FastAPI • Node.js • PostgreSQL • Redis |
-| AI/ML & Vision | PyTorch • YOLOv8 • LangChain • OpenAI • Pandas |
-| Infra & DevOps | Docker • Vercel • Firebase • GitHub Actions |
-| Product & Workflow | Figma • Notion • ClickUp • Postman |
+</div>
 
 ---
 
-### Featured Projects  
-- FireGuard — Wildfire tracking and smoke intelligence  
-  <a href="https://github.com/desenyon/FireGuard">github.com/desenyon/FireGuard</a>
+## What I build (real things, not “ideas”)
 
-- Syntheon — Facial-passkey authentication (private)  
-  <a href="https://github.com/desenyon/syntheon">github.com/desenyon/syntheon</a>
+<table>
+<tr>
+<td width="50%">
 
-- OpenCare — AI-powered Medi-Cal/Medicaid assistant  
-  <a href="https://github.com/desenyon/opencare">github.com/desenyon/opencare</a>
+### Kinetic Fortress
+**Regime-conditioned cross-sectional alpha engine** with a deterministic research pipeline and Lean execution. 
+Built for reproducibility, inspection, and operational clarity.
 
-More at <strong>https://naitikg.me</strong>
+</td>
+<td width="50%">
+
+### FireGuard
+**Real-time wildfire + smoke intelligence** using NASA FIRMS + CAL FIRE + weather data.  
+Focus: alerting, signal quality, usable maps, fast pipelines.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### OpenCare
+**AI assistant for Medi-Cal/Medicaid workflows**  
+Focus: simplifying eligibility, forms, and user navigation.
+
+</td>
+<td width="50%">
+
+### Current obsessions
+Computational Finance • agentic pipelines • quant-algos • typescript
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Ask Me About
-Python • FastAPI • Vercel • LangChain • Edge AI • Vision Models
+## Proof of work
 
-Contact: <strong>desenyon@gmail.com</strong>  
-Fun fact: I once exceeded my Claude usage limit by 300×.
+<div align="center">
 
----
+<a href="https://github.com/desenyon/FireGuard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=desenyon&repo=FireGuard&theme=tokyonight&hide_border=true" />
+</a>
 
-### Connect With Me
-<p align="left">
-  <a href="https://dev.to/desenyon" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40" /></a>
-  <a href="https://linkedin.com/in/naitikpgupta" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://medium.com/@randomresearchai" target="_blank"><img src="https://skillicons.dev/icons?i=medium" width="40" /></a>
-</p>
+<a href="https://github.com/desenyon/opencare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=desenyon&repo=opencare&theme=tokyonight&hide_border=true" />
+</a>
 
----
-
-### Activity Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desenyon&show_icons=true&theme=tokyonight&layout=compact"/>
-</p>
+</div>
 
 ---
 
-<h4 align="center">"Build fast. Learn faster. Automate everything."</h4>
+## Stack I actually use
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,nodejs,fastapi,postgres,redis,docker,vercel,firebase,githubactions,figma&perline=8" />
+</div>
+
+---
+
+## Live telemetry (because receipts matter)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=desenyon&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=desenyon&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenyon&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=desenyon&theme=onedark&no-frame=true&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=desenyon&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## Contact
+
+- Email: **desenyon@gmail.com**
+- Website: **https://naitikg.me**
+- Links: <a href="https://linkedin.com/in/naitikpgupta">LinkedIn</a> • <a href="https://dev.to/desenyon">DEV</a> • <a href="https://medium.com/@randomresearchai">Medium</a>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2b2b2b,100:111111&text=&fontColor=ffffff&section=footer"/>
+
+<b>Build fast. Learn faster. Automate everything.</b>
+
+</div>
