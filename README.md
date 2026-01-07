@@ -17,16 +17,13 @@ Artificial Intelligence • Computational Finance • Applied Systems
 <a href="https://medium.com/@randomresearchai"><img src="https://img.shields.io/badge/Medium-randomresearchai-111?style=for-the-badge&logo=medium"></a>
 <a href="mailto:desenyon@gmail.com"><img src="https://img.shields.io/badge/Email-desenyon%40gmail.com-111?style=for-the-badge&logo=gmail"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111111,100:2b2b2b&section=header"/>
-
 </div>
 
 ---
 
 ## What I work on
 
-I build and evaluate technical systems where correctness, performance, and reproducibility matter: ML experiments, quant research pipelines, and production-grade software.
-
+Making cool stuff
 ---
 
 ## Selected projects
@@ -77,31 +74,6 @@ Quant research • ML evaluation • agentic pipelines • TypeScript + Python
 </tr>
 </table>
 
----
-
-## Proof of work
-
-<div align="center">
-
-<a href="https://github.com/desenyon/FireGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=desenyon&repo=FireGuard&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/desenyon/opencare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=desenyon&repo=opencare&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-</div>
-
----
-
-## Tools I use
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,nodejs,fastapi,postgres,redis,docker,vercel,firebase,githubactions,figma&perline=8" />
-</div>
-
----
 
 ## Activity and metrics
 
@@ -135,9 +107,5 @@ Quant research • ML evaluation • agentic pipelines • TypeScript + Python
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2b2b2b,100:111111&section=footer"/>
-
-<b>Build. Test. Fix. Repeat.</b>
 
 </div>
