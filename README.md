@@ -1,55 +1,66 @@
-<!-- =======================
-     NAITIK GUPTA | README
-     GitHub: desenyon
-     Website: naitikg.me
-======================= -->
+<!-- =====================================================
+     NAITIK GUPTA
+     GitHub: desenyon | https://naitikg.me
+===================================================== -->
 
 <div align="center">
 
 # Naitik Gupta
 
-Student at <a href="https://www.lghs.net/">Los Gatos High School</a>  
-Artificial Intelligence • Computational Finance • Applied Systems
+**AI Research • Computational Finance**  
+Student in High School
 
-<a href="https://naitikg.me"><img src="https://img.shields.io/badge/Portfolio-naitikg.me-111?style=for-the-badge"></a>
-<a href="https://linkedin.com/in/naitikpgupta"><img src="https://img.shields.io/badge/LinkedIn-naitikpgupta-111?style=for-the-badge&logo=linkedin"></a>
-<a href="https://dev.to/desenyon"><img src="https://img.shields.io/badge/DEV.to-desenyon-111?style=for-the-badge&logo=dev.to"></a>
-<a href="https://medium.com/@randomresearchai"><img src="https://img.shields.io/badge/Medium-randomresearchai-111?style=for-the-badge&logo=medium"></a>
-<a href="mailto:desenyon@gmail.com"><img src="https://img.shields.io/badge/Email-desenyon%40gmail.com-111?style=for-the-badge&logo=gmail"></a>
+<a href="https://naitikg.me"><img src="https://img.shields.io/badge/Website-naitikg.me-0f172a?style=for-the-badge"></a>
+<a href="https://linkedin.com/in/naitikpgupta"><img src="https://img.shields.io/badge/LinkedIn-naitikpgupta-0f172a?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/desenyon"><img src="https://img.shields.io/badge/GitHub-desenyon-0f172a?style=for-the-badge&logo=github"></a>
+<a href="https://medium.com/@randomresearchai"><img src="https://img.shields.io/badge/Research_Blog-RandomResearchAI-0f172a?style=for-the-badge&logo=medium"></a>
+<a href="https://orcid.org/0009-0000-0927-0865">
+  <img src="https://img.shields.io/badge/ORCID-0009--0000--0927--0865-0f172a?style=for-the-badge&logo=orcid&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## What I work on
+## Overview
 
-Making cool stuff
+Curious and self-driven high school junior focused on artificial intelligence, computational finance, and applied research.
+
+But tl;dr: 
+I like working with machine learning, finance, and cool tools.
+
+
 ---
 
-## Selected projects
+## Flagship Work
 
 <table>
 <tr>
 <td width="50%">
 
 ### Kinetic Fortress
-Systematic equity trading strategy developed and deployed on QuantConnect.  
-Ranked <b>8th out of 25</b> in the Open League leaderboard.
+**Systematic quantitative trading system** deployed on QuantConnect.
 
-- Regime-aware allocation + leverage control  
-- Volatility and momentum signals  
-- Full pipeline: hypothesis → backtest → sensitivity analysis → drawdown control → attribution  
-- Sharpe up to <b>1.49</b>, CAGR above <b>80%</b> (robustness prioritized over curve fitting)
+- Regime-aware capital allocation and leverage control  
+- Multi-signal ensemble: momentum, volatility, macro proxies  
+- Drawdown-aware position sizing and exposure throttling  
+- Full research loop: hypothesis → backtest → stress testing → attribution  
+
+**Results**
+- Ranked **8th overall** in QuantConnect Open League  
+- Sharpe up to **1.49** with controlled drawdowns  
+- CAGR above **80%**, robustness prioritized over curve fitting  
 
 </td>
 <td width="50%">
 
-### FireGuard
-Real-time wildfire + smoke intelligence using NASA FIRMS, CAL FIRE, and weather data.
+### ALCAS
+**Allosteric Language-Based Computational Architecture for enzyme design**  
 
-- Ingestion + alert logic  
-- Map-based UI with signal filtering to reduce noise  
-- Built for fast interpretation and action
+- Language-model–guided protein sequence generation  
+- Structure-aware filtering and evaluation  
+- End-to-end pipeline from sequence proposal to binding analysis  
+- Designed for extensibility to wet-lab validation  
 
 </td>
 </tr>
@@ -57,55 +68,54 @@ Real-time wildfire + smoke intelligence using NASA FIRMS, CAL FIRE, and weather 
 <tr>
 <td width="50%">
 
-### OpenCare
-AI-assisted workflow tool for Medi-Cal/Medicaid users.
+### FireGuard
+**Real-time wildfire and smoke intelligence platform**.
 
-- Eligibility logic translated into executable checks  
-- Form + navigation simplification  
-- Focus on correctness and clarity
+- Live ingestion from NASA FIRMS, CAL FIRE, and meteorological data  
+- Signal fusion to reduce false positives  
+- Map-centric UI optimized for rapid interpretation  
+- Built for public safety and decision support  
 
 </td>
 <td width="50%">
 
-### Current focus
-Quant research • ML evaluation • agentic pipelines • TypeScript + Python
+### Aurane
+**A modern, elegant ML-oriented DSL that transpiles to idiomatic Python**.
+
+- Aurane is a domain-specific language designed for machine learning development. 
+- It enables developers to write expressive, clean .aur files that compile into production-ready, idiomatic PyTorch code. 
+- The language abstracts away boilerplate while maintaining full control over model architecture and training configuration. 
 
 </td>
 </tr>
 </table>
 
+---
 
-## Activity and metrics
+## Selected Achievements
+
+- Ex-SWE / AI Intern at **RagaAI**  
+- **1st Place Award**, Synopsys Science Fair (ML category) & California State Science & Engineering Fair Qualification 
+- Published researcher, **Journal of Student Research**  
+- QuantConnect Strategies Placer
+
+---
+
+## Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=desenyon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-<img height="165" src="https://streak-stats.demolab.com?user=desenyon&theme=tokyonight&hide_border=true" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=desenyon&show_icons=true&hide_border=true&cache_seconds=86400" />
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenyon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenyon&layout=compact&hide_border=true&cache_seconds=86400" />
 
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=desenyon&theme=onedark&no-frame=true&row=1&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=desenyon&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
-## Contact
-
-- Email: <b>desenyon@gmail.com</b>  
-- Website: <b>https://naitikg.me</b>  
-- Links: <a href="https://linkedin.com/in/naitikpgupta">LinkedIn</a> • <a href="https://dev.to/desenyon">DEV</a> • <a href="https://medium.com/@randomresearchai">Medium</a>
-
----
-
 <div align="center">
+
+**still cooking**
 
 </div>
