@@ -29,9 +29,29 @@ Student in High School
 
 ## Overview
 
-Curious and self-driven high school junior focused on artificial intelligence, computational finance, and applied research.
+Curious and self-driven high school junior focused on artificial intelligence, computational finance, computational bio, and applied research.
 
-**tl;dr:** i like to build really cool stuff like an ai finance research agent and quant strats
+**tl;dr:** i like to build w/ **selectivly vibe code (design led)** to make cool stuff.
+
+---
+
+## Founder
+
+**Founder of Saerin Tech**  
+https://saerin.tech  
+
+---
+
+## Projects
+
+https://pressbench.vercel.app/  
+https://sentinalnanos1.vercel.app/  
+https://worldofmachinelearning.vercel.app/  
+https://sigma-website-six.vercel.app/  
+https://lucefact-dsx.vercel.app/  
+
+Most projects are available on GitHub:  
+https://github.com/desenyon  
 
 ---
 
