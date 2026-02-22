@@ -33,41 +33,6 @@ Curious and self-driven high school junior focused on artificial intelligence, c
 
 **tl;dr:** i like to build really cool stuff like an ai finance research agent and quant strats
 
-
-
-## Flagship Work
-
-### **Sigma**
-**AI finance research agent** built for end-to-end market analysis and synthesis.
-
-### **ALCAS**
-**Allosteric Language-Based** Computational Architecture for enzyme design
-
-
-### **Aurane**
-**ML-oriented DSL** that transpiles to **idiomatic Python / PyTorch**
-
-### **FireGuard**
-**Real-time** wildfire and smoke detection platform
-
-### **Flux-RX**
-**A finance research** + visualization library.  
-
-### **Scope-RX**
-**A model + signal** inspection toolkit.  
-
-### **Updraft-LM**
-**A language-model** experimentation framework. (117M Params)
-
-
-## Selected Achievements
-
-- Ex-SWE / AI Intern at **RagaAI**  
-- **1st Place Award**, Synopsys Science Fair (ML category)  
-- **California State Science & Engineering Fair Qualifier**  
-- Published researcher, **Journal of Student Research**  
-- QuantConnect strategies placer  
-
 ---
 
 <div align="center">
