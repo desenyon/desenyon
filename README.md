@@ -35,7 +35,7 @@ Curious and self-driven high school junior focused on artificial intelligence, c
 
 ---
 
-## Founder
+## Stuff Made
 
 **Founder of Saerin Tech**  
 https://saerin.tech  
@@ -44,13 +44,6 @@ https://saerin.tech
 
 ## Projects
 
-https://pressbench.vercel.app/  
-https://sentinalnanos1.vercel.app/  
-https://worldofmachinelearning.vercel.app/  
-https://sigma-website-six.vercel.app/  
-https://lucefact-dsx.vercel.app/  
-
-Most projects are available on GitHub:  
 https://github.com/desenyon  
 
 ---
