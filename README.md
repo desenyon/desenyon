@@ -13,7 +13,7 @@
 
 *junior in high school. still cooking.*
 
-[![Website](https://img.shields.io/badge/naitikg.me-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://naitikg.me)
+[![Website](https://img.shields.io/badge/naitikg.me-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://naitikgwebsite.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naitikpgupta)
 [![Medium](https://img.shields.io/badge/research_blog-0f172a?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@randomresearchai)
 [![ORCID](https://img.shields.io/badge/ORCID-0f172a?style=flat-square&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0000-0927-0865)
