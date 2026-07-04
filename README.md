@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════ HERO ═══════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/wave-top.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:12101f,100:1a1630&height=120&section=header&text=&fontSize=1" width="100%"/>
+<br/>
 
 <pre align="center">
  ███╗   ██╗ █████╗ ██╗████████╗██╗██╗  ██╗
@@ -13,9 +13,11 @@
  ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=600&lines=founder+%40+Concatenate;agent+infrastructure+%26+context+runtimes;still+cooking" alt="typing intro" />
-
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=600&lines=founder+%40+Concatenate;agent+infrastructure+%26+context+runtimes;still+cooking" alt="founder @ Concatenate"/>
+
+<br/><br/>
 
 <sub><code>desenyon</code> · naitik gupta · california</sub>
 
@@ -26,41 +28,32 @@
 [![Research](https://img.shields.io/badge/research_blog-0a0a0f?style=for-the-badge&logo=medium&logoColor=c4b5fd&labelColor=1a1630)](https://medium.com/@randomresearchai)
 [![ORCID](https://img.shields.io/badge/ORCID-0a0a0f?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=1a1630)](https://orcid.org/0009-0000-0927-0865)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1630,100:0a0a0f&height=80&section=footer&text=&fontSize=1" width="100%"/>
-
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════════════════════════════ MANIFESTO ═══════════════════════════════════════ -->
+<br/>
 
 <div align="center">
 
 ### ◈ &nbsp; what i build &nbsp; ◈
 
-</div>
+<br/>
+
+*I write code that is either something I wanted to try because it sounded cool,<br/>
+infrastructure I was tired of not having, or both.*
 
 <br/>
 
-<p align="center">
-<em>
-I write code that is either something I wanted to try because it sounded cool,<br/>
-infrastructure I was tired of not having, or both.<br/><br/>
-Most of my work lives at **[Concatenate](https://github.com/desenyon/concatenate-app)** — the compile step between scattered company knowledge<br/>
+*Most of my work lives at **[Concatenate](https://github.com/desenyon/concatenate-app)** — the compile step between scattered company knowledge<br/>
 and the agents that need to act on it. I also ship quant research tools and applied ML<br/>
-when the problem is interesting enough to justify the math.
-</em>
-</p>
+when the problem is interesting enough to justify the math.*
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28595d4fcc.png" width="700">
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════════════════════════════ CONCATENATE ═══════════════════════════════════════ -->
+<br/>
 
 <div align="center">
 
@@ -124,15 +117,9 @@ Learned context compression for LLMs — part of the Collective stack.
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e5db-301b-484b-beea-9d1e7c4c3c65.png" width="700">
-</div>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════ TOOLING ═══════════════════════════════════════ -->
 
 <div align="center">
 
@@ -170,15 +157,9 @@ YouTube in your Cursor sidebar — watch, queue, agent-control while coding.
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e5db-301b-484b-beea-9d1e7c4c3c65.png" width="700">
-</div>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════ QUANT ═══════════════════════════════════════ -->
 
 <div align="center">
 
@@ -213,15 +194,9 @@ Systematic strategies on QuantConnect. Desenyon Trade Group — **#2 Strategies 
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e5db-301b-484b-beea-9d1e7c4c3c65.png" width="700">
-</div>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════ RESEARCH ═══════════════════════════════════════ -->
 
 <div align="center">
 
@@ -269,25 +244,15 @@ Adversarial eval platform for AI agents — 6 dimensions, public leaderboard.
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e5db-301b-484b-beea-9d1e7c4c3c65.png" width="700">
-</div>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════ CREDENTIALS ═══════════════════════════════════════ -->
 
 <div align="center">
 
 ### ◆ &nbsp; credentials &nbsp; ◆
 
-</div>
-
 <br/>
-
-<div align="center">
 
 | | |
 |:---:|:---|
@@ -301,43 +266,37 @@ Adversarial eval platform for AI agents — 6 dimensions, public leaderboard.
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e5db-301b-484b-beea-9d1e7c4c3c65.png" width="700">
-</div>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════ FAVORITE TECH ═══════════════════════════════════════ -->
 
 <div align="center">
 
 ### ◈ &nbsp; favorite technologies &nbsp; ◈
 
-</div>
+<br/>
+
+![Python](https://img.shields.io/badge/python-0a0a0f?style=flat-square&logo=python&logoColor=c4b5fd&labelColor=1a1630)
+![Rust](https://img.shields.io/badge/rust-0a0a0f?style=flat-square&logo=rust&logoColor=c4b5fd&labelColor=1a1630)
+![Go](https://img.shields.io/badge/go-0a0a0f?style=flat-square&logo=go&logoColor=c4b5fd&labelColor=1a1630)
+![TypeScript](https://img.shields.io/badge/typescript-0a0a0f?style=flat-square&logo=typescript&logoColor=c4b5fd&labelColor=1a1630)
+![React](https://img.shields.io/badge/react-0a0a0f?style=flat-square&logo=react&logoColor=c4b5fd&labelColor=1a1630)
+![Next.js](https://img.shields.io/badge/next.js-0a0a0f?style=flat-square&logo=nextdotjs&logoColor=c4b5fd&labelColor=1a1630)
 
 <br/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,rust,go,ts,react,nextjs,pytorch,docker,postgres,git,linux,vercel&perline=6&theme=dark" alt="favorite technologies" />
-
-<br/><br/>
-
-<sub>python · rust · go · typescript · react · next.js · pytorch · docker · postgres · git</sub>
+![PyTorch](https://img.shields.io/badge/pytorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=c4b5fd&labelColor=1a1630)
+![Docker](https://img.shields.io/badge/docker-0a0a0f?style=flat-square&logo=docker&logoColor=c4b5fd&labelColor=1a1630)
+![Postgres](https://img.shields.io/badge/postgres-0a0a0f?style=flat-square&logo=postgresql&logoColor=c4b5fd&labelColor=1a1630)
+![Git](https://img.shields.io/badge/git-0a0a0f?style=flat-square&logo=git&logoColor=c4b5fd&labelColor=1a1630)
+![Linux](https://img.shields.io/badge/linux-0a0a0f?style=flat-square&logo=linux&logoColor=c4b5fd&labelColor=1a1630)
+![Vercel](https://img.shields.io/badge/vercel-0a0a0f?style=flat-square&logo=vercel&logoColor=c4b5fd&labelColor=1a1630)
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e5db-301b-484b-beea-9d1e7c4c3c65.png" width="700">
-</div>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/divider.svg" width="100%" alt=""/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════ STATS ═══════════════════════════════════════ -->
 
 <div align="center">
 
@@ -345,18 +304,18 @@ Adversarial eval platform for AI agents — 6 dimensions, public leaderboard.
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=desenyon&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e8f0&rank_icon=percentile"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=desenyon&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e8f0&rank_icon=percentile" alt="github stats"/>
 
 &nbsp;&nbsp;
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenyon&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=c4b5fd&text_color=e2e8f0"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenyon&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=c4b5fd&text_color=e2e8f0" alt="top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=desenyon&theme=radical&hide_border=true&background=0a0a0f&stroke=1a1630&ring=a78bfa&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=desenyon&theme=radical&hide_border=true&background=0a0a0f&stroke=1a1630&ring=a78bfa&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" alt="streak stats"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1630,100:12101f&height=100&section=footer&text=cooked&fontSize=28&fontColor=c4b5fd&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/wave-bottom.svg" width="100%" alt="cooked"/>
 
 </div>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#1a1630"/>
+      <stop offset="100%" stop-color="#12101f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#g)"/>
+  <path d="M0,0 L1200,0 L1200,45 C1000,95 800,5 600,55 C400,105 200,15 0,65 Z" fill="#1a1630" opacity="0.5"/>
+  <text x="600" y="88" text-anchor="middle" font-family="ui-monospace, monospace" font-size="28" fill="#c4b5fd" letter-spacing="6">cooked</text>
+</svg>
