@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/desenyon/desenyon/main/assets/wave-top.svg" width="100%" alt=""/>
-
 <br/>
 
 <pre align="center">
@@ -14,14 +10,6 @@
 </pre>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=600&lines=founder+%40+Concatenate;agent+infrastructure+%26+context+runtimes;still+cooking" alt="founder @ Concatenate"/>
-
-<br/><br/>
-
-<sub><code>desenyon</code> · naitik gupta · california</sub>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=c4b5fd&labelColor=1a1630)](https://naitikgwebsite.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=c4b5fd&labelColor=1a1630)](https://linkedin.com/in/naitikpgupta)
